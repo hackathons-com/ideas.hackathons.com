@@ -1,4 +1,4 @@
-@authors Matthew Herbst, Arielle Vanlderstine, Nick Poelma, Mike Shi, Rodrigo Argumedo, Vishnu Ravi
+@authors Matthew Herbst, Arielle Vanlderstine, Nick Poelma, Mike Shi, Rodrigo Argumedo, Vishnu Ravi, Victor Lourng
 
 1. Actions:
   1. Website
@@ -85,3 +85,5 @@
         * Toggle showing identifying information to non-logged in (public) users
         * Ability to block/unblock a user
         * Create lists (i.e. friends, acquaintances, etc.)
+      1. Social Media
+        * Login with social media accounts
