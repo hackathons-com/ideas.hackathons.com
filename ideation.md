@@ -69,6 +69,7 @@
       * ID
       * Real Name
       * Email
+      * Other known names?
     2. Contact info
       * hackthons.com email?
       * Messaging services (Facebook, Skype, IRC, Instagram, Viber, Wechat, Snapchat, Kik, Yo, Xfire, MSN, Myspace, AIM, Yahoo Messenger)
@@ -82,3 +83,5 @@
     7. Settings
       1. Privacy
         * Toggle showing identifying information to non-logged in (public) users
+        * Ability to block/unblock a user
+        * Create lists (i.e. friends, acquaintances, etc.)
