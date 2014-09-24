@@ -4,7 +4,7 @@
 - Confirm main goals
 - Finalize workflow and site structure
 - Decide on languages to use
-- Assign roles for developers, deisgners, coordinators
+- Assign roles for developers, designers, coordinators
 
 ###November
 - Start development
