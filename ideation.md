@@ -44,7 +44,7 @@
   3. Posting content
     1. Real name will be shown with post
     2. Integrate external content into posts?
-      1. HH specific integrations
+      1. HH specific integrations (Can it be implemented with Socket.io?)
         * GitHub, SO, ChallengePost, etc.
       2. Blogging
         * Medium, WP, LiveJournal, Blogger
