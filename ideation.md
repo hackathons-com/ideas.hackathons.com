@@ -77,7 +77,7 @@
     4. Profile Picture
     5. School(s), Job(s) (company pages?) #tagyourtags
       * Can be pulled from LinkedIn/Fb if available
-    6. is_admin?
+    6. `is_admin?`
       * Can ##
       * hascheezburger
     7. Settings
