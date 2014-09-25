@@ -2,7 +2,7 @@
 
 1. Actions:
 	1. Website
-	1. Register
+		1. Register
 		2. Login
 		3. RSS feeds off the site?
 		4. View user profiles
@@ -27,26 +27,29 @@
 	5. Post content
 		1. Create new epics/sub-forums/whatever we call it
 			* Create new topics within/associated to these
-	2. Pin/Star/Mark Important posts for future use
-		* For resources like good Medium posts on how to organize a hackathon, for example
+		2. Pin/Star/Mark Important posts for future use
+			* For resources like good Medium posts on how to organize a hackathon, for example
 	6. Information Feed
 		1. Searchable
 			1. Tags/filters
-			2. Be able to toggle algorithmic filtering for your feed
+				* Use AI to make more relevant searches so it isn't plainsearch bringing up content with the exact tag?
+			2. Be able to toggle algorithmic filtering for your feed?
 	7. Message other Users
 	8. Follow Users
 		* Their posts are automatically put into feed
 2. Requirements
 	1. Site
 		1. Restrictions on viewing site content if not logged in?
-			* What content
+			* What content?
+				* Full Names?
+				* Links to other sites? (IE Stalking to Facebook or w/e)
 	2. User profile
 		1. Real identification (Facebook, LinkedIn)
 		2. Do we have an age restriction?
 			* 13 is min age to avoid COPPA
 	3. Posting content
 		1. Real name will be shown with post
-		2. Integrate external content into posts?
+		2. Integrate external content into posts? (IE Facebook previews when you post a link?)
 			1. HH specific integrations (Can it be implemented with Socket.io?)
 				* GitHub, SO, ChallengePost, etc.
 			2. Blogging
@@ -54,6 +57,7 @@
 			3. How to handle content from unrecognized service?
 				* MEETTTAAAA tags
 		3. Integrate internal content into posts?
+			* GIFs EVERYWHERE
 3. Features
 	1. Site
 		1. Settings
@@ -61,7 +65,7 @@
 			1. Searchable
 				1. Tags/filters
 				2. Machine Learning
-					* What would this include?
+					* Use AI to make more relevant searches so it isn't plainsearch bringing up content with the exact tag?
 				3. By categories/sub-things
 		3. Styles of viewing content and posting
 			1. Tweet style - on front page
@@ -77,13 +81,15 @@
 			* hackthons.com email?
 			* Messaging services (Facebook, Skype, IRC, Instagram, Viber, Wechat, Snapchat, Kik, Yo, Xfire, MSN, Myspace, AIM, Yahoo Messenger)
 		3. Message inbox
-		4. Profile Picture
-		5. School(s), Job(s) (company pages?) #tagyourtags
+		4. Profile Comments
+			*Leaving a quick message
+		5. Profile Picture
+		6. School(s), Job(s) (company pages?) #tagyourtags
 			* Can be pulled from LinkedIn/Fb if available
-		6. `is_admin?`
+		7. `is_admin?`
 			* Can ##
 			* hascheezburger
-		7. Settings
+		8. Settings
 			1. Privacy
 				* Toggle showing identifying information to non-logged in (public) users
 				* Ability to block/unblock a user
