@@ -82,7 +82,7 @@
 			* Messaging services (Facebook, Skype, IRC, Instagram, Viber, Wechat, Snapchat, Kik, Yo, Xfire, MSN, Myspace, AIM, Yahoo Messenger)
 		3. Message inbox
 		4. Profile Comments
-			*Leaving a quick message
+			* Leaving a quick message
 		5. Profile Picture
 		6. School(s), Job(s) (company pages?) #tagyourtags
 			* Can be pulled from LinkedIn/Fb if available
