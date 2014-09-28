@@ -93,6 +93,8 @@
 			1. Privacy
 				* Toggle showing identifying information to non-logged in (public) users
 				* Ability to block/unblock a user
+				  * What does this mean? Is content blocked, user profile viewing, etc...
 				* Create lists (i.e. friends, acquaintances, etc.)
 			1. Social Media
-				* Login with social media accounts
+				* Manage social media account logins
+				  * What information is shared to hackthons.com (this is available via those accounts, but we can pro-actively show the user what we have access to)
