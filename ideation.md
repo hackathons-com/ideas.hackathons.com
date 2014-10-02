@@ -44,7 +44,7 @@
 				* Full Names?
 				* Links to other sites? (IE Stalking to Facebook or w/e)
 	2. User profile
-		1. Real identification (Facebook, LinkedIn)
+		1. Real identification (Facebook, LinkedIn, Google+)
 		2. Do we have an age restriction?
 			* 13 is min age to avoid COPPA
 	3. Posting content
@@ -53,7 +53,7 @@
 			1. HH specific integrations (Can it be implemented with Socket.io?)
 				* GitHub, SO, ChallengePost, etc.
 			2. Blogging
-				* Medium, WP, LiveJournal, Blogger
+				* Medium, WP, LiveJournal, Blogger, Tumblr
 			3. How to handle content from unrecognized service?
 				* MEETTTAAAA tags
 		3. Integrate internal content into posts?
@@ -95,6 +95,7 @@
 				* Ability to block/unblock a user
 				  * What does this mean? Is content blocked, user profile viewing, etc...
 				* Create lists (i.e. friends, acquaintances, etc.)
+				* 2-step auth to prevent unauthorized access to the account?
 			1. Social Media
 				* Manage social media account logins
 				  * What information is shared to hackthons.com (this is available via those accounts, but we can pro-actively show the user what we have access to)
