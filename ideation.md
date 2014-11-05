@@ -92,8 +92,7 @@
 		8. Settings
 			1. Privacy
 				* Toggle showing identifying information to non-logged in (public) users
-				* Ability to block/unblock a user
-				  * What does this mean? Is content blocked, user profile viewing, etc...
+				* Ability to block/unblock a user's profile.
 				* Create lists (i.e. friends, acquaintances, etc.)
 				* 2-step auth to prevent unauthorized access to the account?
 			1. Social Media
