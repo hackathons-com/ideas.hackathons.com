@@ -1,4 +1,4 @@
-@authors Matthew Herbst, Arielle Vanlderstine, Jeremy Meyer, Nick Poelma, Mike Shi, Rodrigo Argumedo, Robert O'Connor, Vishnu Ravi, Victor Lourng
+@authors Matthew Herbst, Arielle Vanlderstine [(@arirawr)](http://github.com/arirawr), Jeremy Meyer [(@jjman505)](http://github.com/jjman505), Nick Poelma, Mike Shi, Rodrigo Argumedo, Robert O'Connor, Vishnu Ravi, Victor Lourng [(@LabLayers)](http://github.com/lablayers)
 
 1. Actions:
 	1. Website
