@@ -1,4 +1,4 @@
-@authors Matthew Herbst, Arielle Vanlderstine, Nick Poelma, Mike Shi, Rodrigo Argumedo, Vishnu Ravi, Victor Lourng
+@authors Matthew Herbst, Arielle Vanlderstine, Jeremy Meyer, Nick Poelma, Mike Shi, Rodrigo Argumedo, Robert O'Connor, Vishnu Ravi, Victor Lourng
 
 1. Actions:
 	1. Website
