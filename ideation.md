@@ -45,8 +45,7 @@
 				* Links to other sites? (IE Stalking to Facebook or w/e)
 	2. User profile
 		1. Real identification (Facebook, LinkedIn, Google+)
-		2. Do we have an age restriction?
-			* 13 is min age to avoid COPPA
+		2. Age restriction - 13 is min age to avoid COPPA
 	3. Posting content
 		1. Real name will be shown with post
 		2. Integrate external content into posts? (IE Facebook previews when you post a link?)
